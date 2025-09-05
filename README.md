@@ -1,4 +1,3 @@
-# Ecommerce-sales-excel-dashboard
 # 📊 Sales Dashboard – E-commerce Data  
 
 An **interactive Excel dashboard** built to analyze and visualize sales performance of electronic devices across different categories. The dataset was cleaned and transformed in Excel, followed by creating meaningful visualizations to uncover insights.  
@@ -15,7 +14,8 @@ This project showcases:
 ---
 
 ## 🖼️ Dashboard Preview  
-![Sales Dashboard](f0cea68d-b2dd-45db-9285-d65511c82a3b.png)  
+![Sales Dashboard](interactive_dashboard.png)
+
 
 ---
 
@@ -33,4 +33,6 @@ This project showcases:
   - Data Cleaning (removing duplicates, handling blanks, formatting)  
   - Pivot Tables & Pivot Charts  
   - Slicers & Filters  
-  - Conditional Formatting 
+  - Conditional Formatting  
+
+---
