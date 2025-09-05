@@ -14,7 +14,7 @@ This project showcases:
 ---
 
 ## 🖼️ Dashboard Preview  
-![Sales Dashboard]("C:\Users\Tapiwa.Nthele\Downloads\MY EXCEL PROJ\interactive dashboard.png")
+![Sales Dashboard](Downloads\MY EXCEL PROJ\interactive dashboard.png)
 
 
 
