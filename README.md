@@ -14,7 +14,7 @@ This project showcases:
 ---
 
 ## 🖼️ Dashboard Preview  
-![Sales Dashboard](Downloads\MY EXCEL PROJ\interactive dashboard.png)
+![Sales Dashboard]([Downloads\MY EXCEL PROJ\interactive dashboard.png](https://github.com/teewith/Ecommerce-sales-excel-dashboard/blob/main/Images/interactive%20dashboard.png?raw=true))
 
 
 
